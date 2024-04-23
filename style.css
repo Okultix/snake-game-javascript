@@ -1,0 +1,32 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    color: rgb(255, 255, 255);
+}
+#snake {
+    border: 20px solid;
+    border-radius: 5px; /* Optional: Add border radius for rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow to the border */
+    margin: 0 auto;
+    display: block;
+    animation: borderAnimation 8s infinite; /* Apply the animation to the border */
+}
+@keyframes borderAnimation {
+    0% {
+        border-color: rgb(107, 107, 107);
+    }
+    45% {
+        border-color: rgb(47, 47, 47);
+    }
+    55% {
+        border-color: rgb(0, 0, 0);
+    }
+    100% {
+        border-color: rgb(107, 107, 107);
+    }
+}

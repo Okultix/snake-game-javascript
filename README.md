@@ -1,6 +1,5 @@
-Vintage Snake Game
+Reviving the Classic: Vintage Snake Game
 
-We all know that this game was created by Nokia 3310 :)
-I decided to create my own version of it...
+We're all familiar with the nostalgic charm of the classic Snake game, famously synonymous with the iconic Nokia 3310. Inspired by its simplicity and addictive gameplay, I've embarked on crafting my own rendition of this beloved classic.
 
-If you want to contribute and add some attributes to this game, I will be more than happy to see your creativity in this project.
+If you're itching to inject some fresh attributes or innovative twists into this timeless game, I welcome and encourage your creative contributions to elevate this project to new heights.
